@@ -14,7 +14,7 @@ VITE_CLIENT_ID_GOOGLE="000000000000000000000000000000000000000000000.apps.google
 
 ///////////////////////////////
 
-add .env in the .gitignore to avoid the git track
+make sure that you have .env in the .gitignore to avoid the git track
 
 ///////////////////////////////
 
